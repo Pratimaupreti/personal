@@ -1,1 +1,23 @@
+<style>body {
+    background-image: url("office-620822_1920.jpg");
+}
 
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    background-color: crimson;
+    color: white;
+    text-align: center;
+
+}
+
+p {
+    font-family: Verdana;
+    font-size: medium;
+    text-align: center;
+    color: crimson;
+}
+
+</style>
